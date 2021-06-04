@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Udemy Dark Mode",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.udemy.com/course/*"],
+      "js": ["jquery-3.6.0.min.js", "scripts/cssChanger.js"]
+    }
+  ]
+}
