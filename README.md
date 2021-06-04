@@ -1,7 +1,7 @@
 # UdemyDarkMode
 
 A simple and forever-free browser extension which changes some of the brighter colors on the course pages so that it is dark mode friendly.
-Expected future updates are to extend dark mode to be site-wide rather than only on course pages.
+Main functionality is active with a few elements not yet set to dark mode. Expected future updates are to extend dark mode to be site-wide rather than only on course pages.
 
 - Open the Chrome Extensions tab (chrome://extensions/).
 - In the upper right-hand corner, toggle "Developer Mode" on.
